@@ -19,3 +19,4 @@ How is replication done?
 What happens when a DataNode crashes during Node?
 
 ![Concept Diagram](https://github.com/IshanSinghal-Arth/Hadoop-DFS-Replication/blob/main/REPLICAS.png)
+![Concept Diagram](https://github.com/IshanSinghal-Arth/Hadoop-DFS-Replication/blob/main/Untitled%20Document.jpg)
